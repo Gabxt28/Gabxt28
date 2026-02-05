@@ -4,14 +4,11 @@ Sou um desenvolvedor iniciante focado em inovação tecnológica e evolução co
 
 ---
 
-## 🧠 Linguagens
-- 🟦 **C#**
-- 🐍 **SQL**
-- ☕ **Java** *(estudando)*
-
+ 
 ---
 
 ## 🖥️ Back-end
+-c#
 - 🔷 **ASP.NET**
 - 🔌 **APIs REST**
 - 🧩 **Padrões de Projeto**
