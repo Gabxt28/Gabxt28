@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel
 
-Sou um desenvolvedor iniciante focado em inovação tecnológica e evolução contínua.
+Sou um desenvolvedor iniciante apaixonado por tecnologia,  buscando evoluir.  Atualmente, estou me aprofundando cada vez mais no universo do desenvolvimento, ampliando minhas habilidades e explorando novas ferramentas.
 
 ---
 
@@ -11,8 +11,6 @@ Sou um desenvolvedor iniciante focado em inovação tecnológica e evolução co
 - 🔷 **C#**
 - 🔷 **ASP.NET**
 - 🔌 **APIs REST**
-- 🧩 **Padrões de Projeto**
-- 🌱 **Spring** *(estudando)*
 
 ---
 
@@ -29,14 +27,11 @@ Sou um desenvolvedor iniciante focado em inovação tecnológica e evolução co
 ---
 
 ## 🗄️ Bancos de Dados
-- 🏦 **SQL Server**
 - 🐬 **MySQL**
 - 🍃 **MongoDB**
 
 ---
-
-## ☁️ Cloud
-- ☁️ **AWS**
+ 
 
 ---
 
