@@ -8,7 +8,7 @@ Sou um desenvolvedor iniciante focado em inovação tecnológica e evolução co
 ---
 
 ## 🖥️ Back-end
--c#
+- 🔷 **C#**
 - 🔷 **ASP.NET**
 - 🔌 **APIs REST**
 - 🧩 **Padrões de Projeto**
