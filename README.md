@@ -76,6 +76,6 @@
     alt="Github Status" 
     width="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabxt28&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Gabxt28&theme=radical&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=Gabxt28&theme=radical&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
 />
  
