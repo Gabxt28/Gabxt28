@@ -12,7 +12,7 @@
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="30px" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -36,7 +36,7 @@
     align="left" 
     alt="Laravel" 
     title="Laravel"
-    width="30px" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" 
 />
@@ -44,7 +44,7 @@
     align="left" 
     alt="JQuery" 
     title="JQuery"
-    width="30px" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
@@ -52,7 +52,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -60,7 +60,7 @@
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
