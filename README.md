@@ -93,5 +93,5 @@
     alt="Github Status" 
     width="500px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielLimalimao&theme=radical&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimalimao&theme=tokyonight"
 />
